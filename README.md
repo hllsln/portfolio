@@ -1,2 +1,2 @@
 # resume
-A quick, basic portfolio I created using only HTML.
+A quick, basic resume I created using only HTML.
